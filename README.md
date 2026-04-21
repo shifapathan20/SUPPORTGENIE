@@ -42,11 +42,11 @@ Unlike traditional systems that stop at generating responses, SUPPORTGENIE is bu
 
 ## 🔷 System Capabilities
 
-- 🧠 Intelligent intent recognition  
-- 🔍 Real-time knowledge retrieval  
-- 💬 Context-aware response generation  
-- ⚙️ Action execution and workflow handling  
-- 🚀 End-to-end query resolution  
+-  Intelligent intent recognition  
+-  Real-time knowledge retrieval  
+-  Context-aware response generation  
+-  Action execution and workflow handling  
+-  End-to-end query resolution  
 
 ---
 
@@ -87,10 +87,10 @@ Designed for real-world, high-volume usage
 
 ## 🔷 Challenges Addressed
 
-- ⛔ Delayed human responses  
-- ⛔ Repetitive support workload  
-- ⛔ Inconsistent answer quality  
-- ⛔ Poor scalability  
+-  Delayed human responses  
+-  Repetitive support workload  
+-  Inconsistent answer quality  
+-  Poor scalability  
 
 ### ✔️ Solution
 
