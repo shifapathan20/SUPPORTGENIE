@@ -1,6 +1,5 @@
 <p align="center">
-                                                                               # 🚀 SUPPORTGENIE
-
+# 🚀 SUPPORTGENIE
 </p>
 
 <p align="center">
