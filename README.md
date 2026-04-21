@@ -1,6 +1,6 @@
 <p align="center">
 
-# 🚀 SUPPORTGENIE
+#  SUPPORTGENIE
 
 </p>
 
@@ -27,7 +27,7 @@ Unlike traditional systems that stop at generating responses, SUPPORTGENIE is bu
 
 ## 🔷 Core Concept
 
-> ### ⚡ From Response Systems → To Intelligent Agents
+> ###  From Response Systems → To Intelligent Agents
 
 **Traditional systems:**
 - generate replies  
