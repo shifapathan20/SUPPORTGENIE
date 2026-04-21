@@ -1,5 +1,7 @@
 <p align="center">
+
 # 🚀 SUPPORTGENIE
+
 </p>
 
 <p align="center">
@@ -27,10 +29,10 @@ Unlike traditional systems that stop at generating responses, SUPPORTGENIE is bu
 
 > ### ⚡ From Response Systems → To Intelligent Agents
 
-Traditional systems:
+**Traditional systems:**
 - generate replies  
 
-SUPPORTGENIE:
+**SUPPORTGENIE:**
 - understands intent  
 - makes decisions  
 - executes actions  
@@ -49,6 +51,7 @@ SUPPORTGENIE:
 ---
 
 ## 🔷 Architecture View
+
 User Input
 ↓
 Intent Understanding
@@ -62,6 +65,7 @@ Response Generation
 Action Execution
 ↓
 Final Resolution
+
 
 ---
 
@@ -144,4 +148,4 @@ It shifts AI from:
 ## 🔷 Contact
 
 📧 Email: shifapathan2026@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/shifapathan20
+🔗 LinkedIn: https://www.linkedin.com/in/shifapathan20
