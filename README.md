@@ -43,7 +43,7 @@ This system is built with a focus on **performance, scalability, and real-world 
 
 ## 🧠 System Workflow (Flowchart)
 
-```mermaid
+```
 flowchart TD
     A[User Query] --> B[Input Processor]
     B --> C[Intent Detection (AI/NLP)]
