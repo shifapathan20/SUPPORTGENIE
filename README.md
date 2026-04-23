@@ -119,26 +119,30 @@ SupportGenie/
 └── README.md
 ```
 ---
+```
 🔐 Security & Reliability
 JWT-based authentication
 Input validation & sanitization
 Rate limiting & API protection
 Error handling middleware
 Logging & monitoring support
+```
 ---
-
+```
 📊 Performance Considerations
 Asynchronous processing
 Caching frequently requested data
 Load balancing ready
 Stateless service design
-
+```
 ---
+```
 🧪 Future Enhancements
 Voice-based support integration 🎙️
 Multi-language AI support 🌍
 Advanced analytics dashboard 📈
 Self-learning AI model improvement
 CRM & third-party integrations
+```
 ---
 
