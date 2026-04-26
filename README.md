@@ -41,19 +41,13 @@ This system is built with a focus on **performance, scalability, and real-world 
 
 ---
 
-## 🧠 System Workflow (Flowchart)
+## 🧠 System Workflow (Visual Representation)
+```
+<p align="center">
+  <img src="diagram.png" alt="SupportGenie Workflow" width="700"/>
+</p>
+```
 
-```
-flowchart TD
-    A[User Query] --> B[Input Processor]
-    B --> C[Intent Detection (AI/NLP)]
-    C --> D{Decision Engine}
-    D -->|Info Request| E[Knowledge Base Lookup]
-    D -->|Action Required| F[Task Executor]
-    E --> G[Response Generator]
-    F --> G
-    G --> H[User Response]
-```
 🏗️ System Architecture
 <img width="474" height="379" alt="image" src="https://github.com/user-attachments/assets/e4778fc9-1047-47c9-823b-108ba788524e" />
 
