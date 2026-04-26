@@ -42,11 +42,11 @@ This system is built with a focus on **performance, scalability, and real-world 
 ---
 
 ## 🧠 System Workflow (Visual Representation)
-```
+
 <p align="center">
   <img src="diagram.png" alt="SupportGenie Workflow" width="700"/>
 </p>
-```
+
 
 🏗️ System Architecture
 <img width="474" height="379" alt="image" src="https://github.com/user-attachments/assets/e4778fc9-1047-47c9-823b-108ba788524e" />
